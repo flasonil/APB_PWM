@@ -1,0 +1,6 @@
+setenv MODELSIM_HOME /sw/CAD/Mentor/questa_sv_afv/10.2c_5/questasim/
+set path = ( ${MODELSIM_HOME}/bin $path )
+set MODELSIM=$MODELSIM_HOME/modelsim.ini
+setenv LM_LICENSE_FILE  1717@licenzone
+setenv PDK_DIR_DIG /home/users/esdadm/PDK45_DIG/
+
